@@ -1,12 +1,12 @@
 # Prácticas y Demostraciones del Curso de VB.NET 
 
-Introducción a Visual Basic 
-Sentencias de control y excepciones
-Clases y Objetos
-Tipos y ensamblados
-Herencia, interfaces
-Acceso a Base de Datos
-Procesamiento XML
-Introducción al desarrollo de servicios WCF
-Introducción al desarrollo de servicios WCF REST
-Introducción al desarrollo de servicios Windows
+Introducción a Visual Basic <br/>
+Sentencias de control y excepciones<br/>
+Clases y Objetos<br/>
+Tipos y ensamblados<br/>
+Herencia, interfaces<br/>
+Acceso a Base de Datos<br/>
+Procesamiento XML<br/>
+Introducción al desarrollo de servicios WCF<br/>
+Introducción al desarrollo de servicios WCF REST<br/>
+Introducción al desarrollo de servicios Windows<br/>
