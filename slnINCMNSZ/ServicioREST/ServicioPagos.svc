@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="VB" Debug="true" Service="ServicioREST.ServicioPagos" CodeBehind="ServicioPagos.svc.vb" %>
